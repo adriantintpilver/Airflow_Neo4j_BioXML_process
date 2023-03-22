@@ -93,5 +93,3 @@ with DAG(
 
     Load_and_process_XML_task >> end_task
 
-if __name__ == "__main__":
-    Load_and_process_XML()
